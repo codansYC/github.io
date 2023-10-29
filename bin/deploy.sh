@@ -1,3 +1,4 @@
+#! /bin/sh
 pnpm docs:build
 cd docs/.vitepress/dist
 
