@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as e}from"./chunks/framework.a767a766.js";const b=JSON.parse('{"title":"前言","description":"","frontmatter":{},"headers":[],"relativePath":"ruby_tool.md","filePath":"ruby_tool.md"}'),p={name:"ruby_tool.md"},l=e("",95),o=[l];function c(t,r,i,y,d,E){return n(),a("div",null,o)}const m=s(p,[["render",c]]);export{b as __pageData,m as default};
